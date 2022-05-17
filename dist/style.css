@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    background-color: rgb(33, 85, 170);
+    color: white;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+#card-header {
+    background-color: rgb(87, 150, 251);
+    color: white;
+}
+
+.card {
+    width: 50rem;
+    height: 100rem;
+}
