@@ -3,9 +3,9 @@
 
 ## Description
 
-A Node.js command-line application that takes information about employees on a software engineering team and generates an HTML webpage that displays summarys for each person.
+A Node.js command-line application that takes information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
-Please use this [video] (`TBD`) for a walkthough tutorial of the Team Profile Generator.
+Please use this [video](https://drive.google.com/file/d/1LAf2hnAb_RY4jH9JgINoUvmLSpP49qo_/view) for a walkthough tutorial of the Team Profile Generator.
 
 ## Table of Contents
 
@@ -55,13 +55,13 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-up
 
-![mockup] (`TBD`)
+![image](./assets/team-profile-generator%20mock-up.png)
 
 ~~~
 
-==========
-NAVIGATION
-==========
+                                                          ==========
+                                                          NAVIGATION
+                                                          ==========
 
 .
 ├── __tests__/             //jest tests
