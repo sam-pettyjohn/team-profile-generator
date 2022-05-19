@@ -59,9 +59,9 @@ THEN I exit the application, and the HTML is generated
 
 ~~~
 
-                                                          ==========
-                                                          NAVIGATION
-                                                          ==========
+==========
+NAVIGATION
+==========
 
 .
 ├── __tests__/             //jest tests
